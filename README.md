@@ -92,7 +92,14 @@ The **Decision Tree Classifier** proved to be an effective model for predicting 
 ---
 
 ## **Technologies Used**
-Python: The programming language used for this project.
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
-Machine Learning: Decision Tree Classifier, GridSearchCV
-Data Visualization: Matplotlib, Seaborn
+- Python: The programming language used for this project.
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Machine Learning: Decision Tree Classifier, GridSearchCV
+- Data Visualization: Matplotlib, Seaborn
+
+---
+
+## **Acknowledgments**
+- The Bank Marketing dataset from the UCI Machine Learning Repository.
+- Scikit-learn documentation for machine learning algorithms.
+- Matplotlib and Seaborn for data visualization tools.
