@@ -64,7 +64,7 @@ The model was evaluated using various metrics:
 ---
 
 ## **Key Insights and Visualizations**
-
+![Image](https://github.com/user-attachments/assets/19eb22a5-e03b-4209-97e4-11d48ab57e1d)
 ### **1. Customer Demographics**
 Visualizations like **bar charts** helped understand the distribution of customer demographics and how they influence the likelihood of subscribing to a product. Insights like:
 - Customers in **higher age groups** tend to have a higher subscription rate.
